@@ -1,0 +1,83 @@
+[
+  {
+    "id": "mockipl",
+    "title": "Mock IPL Auction",
+    "description": "Virtual IPL Auction",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/mockipl.png"
+  },
+  {
+    "id": "paneldiscussion",
+    "title": "Panel Discussion",
+    "description": "Business Panel Discussion",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/paneldiscussion.png"
+  },
+  {
+    "id": "hackurway",
+    "title": "Hack UR Way",
+    "description": "Hackathon",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/hackurway.png"
+  },
+  {
+    "id": "bplan",
+    "title": "B-Plan",
+    "description": "Business Idea",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/bplan.png"
+  },
+  {
+    "id": "promoteit",
+    "title": "Promote It",
+    "description": "Graphics Designing",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/promoteit.png"
+  },
+  {
+    "id": "casestudy",
+    "title": "Case Study Challenge",
+    "description": "Business Problem Solution",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/casestudy.png"
+  },
+  {
+    "id": "quizbizz",
+    "title": "Quiz Bizz",
+    "description": "Business Quiz",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/quizbizz.png"
+  },
+  {
+    "id": "stockify",
+    "title": "Stockify",
+    "description": "Virtual Stock Market",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/stockify.png"
+  },
+  {
+    "id": "tweetersbusinessdebate",
+    "title": "Tweeter Business Debate",
+    "description": "Business Debate",
+    "date": "0000-00-00",
+    "time": "00:00",
+    "category": "",
+    "image": "/events/tweeterbusinessdebate.png"
+  }
+]
