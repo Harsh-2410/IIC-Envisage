@@ -25,7 +25,7 @@ export default function NavBar() {
           <div className="flex lg:flex-1">
             <a href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Envisage 24</span>
-              <Logo className="h-12 w-auto" />
+              <Logo  />
             </a>
           </div>
           <div className="flex lg:hidden">
@@ -75,7 +75,7 @@ export default function NavBar() {
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">Your Company</span>
-                <Logo className="h-12 w-auto" />
+                <Logo />
               </a>
               <button
                 type="button"
